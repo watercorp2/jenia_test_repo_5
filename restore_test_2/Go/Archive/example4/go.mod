@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	cloud.google.com/go v0.40.0 // indirect
-	code.gitea.io/gitea v1.9.0-dev
+	code.gitea.io/gitea v1.22.1
 	gitea.com/lunny/levelqueue v0.1.0 // indirect
 	gitea.com/macaron/inject v0.0.0-20190805023432-d4c86e31027a
 	gitea.com/macaron/macaron v1.3.2
@@ -158,7 +158,7 @@ require (
 	github.com/toqueteos/webbrowser v1.2.0 // indirect
 	github.com/tstranex/u2f v1.0.0 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
-	github.com/unknwon/cae v1.0.0
+	github.com/unknwon/cae v1.0.1
 	github.com/unknwon/com v1.0.1
 	github.com/unknwon/i18n v0.0.0-20190805065654-5c6446a380b6 // indirect
 	github.com/unknwon/paginater v0.0.0-20151104151617-7748a72e0141 // indirect
@@ -169,7 +169,7 @@ require (
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.mongodb.org/mongo-driver v1.1.1 // indirect
 	go.opencensus.io v0.22.0 // indirect
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto v0.17.0
 	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
 	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
 	golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
