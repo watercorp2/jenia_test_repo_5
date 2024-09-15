@@ -55,7 +55,7 @@ require (
 	github.com/gliderlabs/ssh v0.2.2 // indirect
 	github.com/glycerine/go-unsnap-stream v0.0.0-20180323001048-9f0cb55181dd // indirect
 	github.com/glycerine/goconvey v0.0.0-20190315024820-982ee783a72e // indirect
-	github.com/go-gitea/gitea v1.2.3
+	github.com/go-gitea/gitea v1.17.3
 	github.com/go-kit/kit v0.9.0 // indirect
 	github.com/go-openapi/analysis v0.19.0 // indirect
 	github.com/go-openapi/inflect v0.19.0 // indirect
@@ -81,7 +81,7 @@ require (
 	github.com/google/pprof v0.0.0-20190723021845-34ac40c74b70 // indirect
 	github.com/google/renameio v0.1.0 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20190430165422-3e4dfb77656c // indirect
-	github.com/gophish/gophish v0.1.2
+	github.com/gophish/gophish v0.12.0
 	github.com/gorilla/handlers v1.4.2 // indirect
 	github.com/gorilla/sessions v1.2.0 // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.9.6 // indirect
@@ -171,7 +171,7 @@ require (
 	go.opencensus.io v0.22.0 // indirect
 	golang.org/x/crypto v0.17.0
 	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
+	golang.org/x/net v0.23.0
 	golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
 	golang.org/x/tools v0.0.0-20190910221609-7f5965fd7709 // indirect
 	google.golang.org/api v0.9.0 // indirect
